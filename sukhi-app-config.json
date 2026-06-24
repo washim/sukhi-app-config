@@ -2,7 +2,7 @@
   "app_name": "Sukhiparibar Desktop Apps",
   "font_family": "Verdana",
   "font-size": 10,
-  "status": "active",
+  "status": "inactive",
   "alert_message": "Please Payment on time",
   "status_message": "Storage license is active"
 }
